@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\bin\Debug\hello word.exe
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\bin\Debug\hello word.pdb
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\obj\x86\Debug\hello_word.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\obj\x86\Debug\hello word.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\obj\x86\Debug\hello word.exe
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\obj\x86\Debug\hello word.pdb
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\obj\x86\Debug\hello word.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\hello-word-\hello word\hello word\obj\x86\Debug\hello_word.frmhelloword.resources
