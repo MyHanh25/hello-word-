@@ -1,2 +1,2 @@
-# hello-word-
-BTHELLOWORD
+# hello-world-
+BTHELLOWORLD
